@@ -2,6 +2,8 @@ Author
 Andrey Chuyan (oksigen077777@gmail.com)  
 Copyright 2025 Andrey Chuyan  
 
+Telegram-канал: [@IT_Chuyana](https://t.me/IT_Chuyana)
+
 # 🚦 Locust Load Testing Toolkit
 
 ![alt text](static/image-2.png)
